@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0114-Raffles-in-Groningen_71415
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71415#Lord-Lister-No-0114-Raffles-in-Groningen
 gutenberg_issued: '2023-08-15'
 identifiers:
   gutenberg: '71415'
